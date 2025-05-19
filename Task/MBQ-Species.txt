@@ -1,0 +1,2 @@
+TD000;Thunder bird;Thunder;1;100;55
+FD000;Fire Bear;Fire;1;200;20

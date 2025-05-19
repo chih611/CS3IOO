@@ -1,0 +1,2 @@
+P100;Thunder bird;TD000;1;40;55
+P200;Fire Bear;FD000;1;0;20
